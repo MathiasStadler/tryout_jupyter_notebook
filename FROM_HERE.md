@@ -1,0 +1,1 @@
+(tryout)[https://algotrading101.com/learn/yahoo-finance-api-guide/]
